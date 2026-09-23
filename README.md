@@ -4,7 +4,7 @@ U.S. Small Business Administration 7(a) and 504 loan data — "did this
 business get an SBA loan, from whom, how much, and did it pay it off" — kept
 current from SBA's own quarterly FOIA CSV extracts.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1669+ live data sources.
 
 **Phase 1 (this pack, shipped): 7(a) + 504.** PPP is a separate phase 2 —
 not built yet, ~5GB, tracked on fleet #1921 as remaining work.
@@ -142,7 +142,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1576+ data sources. The
+Both URLs reach the same gateway and the same 1669+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
