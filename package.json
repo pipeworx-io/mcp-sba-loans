@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sba-loans",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "SBA loans MCP — U.S. Small Business Administration 7(a) / 504 FOIA loan",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-fdafcdcef262157fd91172e17cb9d3fb49e445fefc0164f6834cef87848fe181",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }

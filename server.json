@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sba-loans",
   "title": "Sba Loans",
   "description": "SBA loans MCP — U.S. Small Business Administration 7(a) / 504 FOIA loan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sba-loans",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sba-loans",
